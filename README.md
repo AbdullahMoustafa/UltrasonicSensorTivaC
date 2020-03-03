@@ -1,6 +1,6 @@
 # UltrasonicSensorTivaC
 
-#Ultrasonic Ranging Module HC - SR04 
+Ultrasonic Ranging Module HC - SR04 
 Interfacing of Ultrasonic sensors with TIVA-C ARM Cortex
 
 
