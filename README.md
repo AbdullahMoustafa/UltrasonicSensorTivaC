@@ -4,7 +4,7 @@ Ultrasonic Ranging Module HC - SR04
 Interfacing of Ultrasonic sensors with TIVA-C ARM Cortex
 
 
-Module operating operating operating operating Principle Principle Principle Principle
+Module operating Principle
 Set low the Trig and Echo port when the module initializes , firstly, transmit
 at least 10us high level pulse to the Trig pin (module automatically sends eight
 40K square wave), and then wait to capture the rising edge output by echo port,
